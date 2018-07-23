@@ -1,5 +1,5 @@
 # Movie Rating Recommendation System
-Following are the steps to execute this project:
+##Following are the steps to execute this project:
 
 Step 1: Download Anaconda software from https://www.anaconda.com/download/ and install.
 
